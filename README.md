@@ -42,6 +42,7 @@ I am a passionate web developer from Indonesia 🇮🇩 on a quest to build beau
 <!-- You can customize the themes of these stat cards! 'tokyonight', 'dracula', or 'radical' fit the cool/anime vibe well. -->
 
 <p align="center">
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wahyuSukaEkor&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=wahyuSukaEkor&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)
   <img src="https://github-readme-stats.vercel.app/api?username=wahyusukaekor&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff79c6&icon_color=8be9fd" alt="Wahyu's GitHub Stats" />
 </p>
 <p align="center">
